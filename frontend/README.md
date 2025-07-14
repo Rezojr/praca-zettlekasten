@@ -1,7 +1,4 @@
 # Quasar App (frontend2)
-# XD
-## Test
-#### tests
 
 A Quasar Project
 
